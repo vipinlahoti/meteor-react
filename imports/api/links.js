@@ -1,5 +1,5 @@
 /*
- * @todo: Make JSON API
+ * @todo: Ok new api
  */
 import { Mongo } from 'meteor/mongo';
 
